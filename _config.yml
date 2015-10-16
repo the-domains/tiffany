@@ -1,6 +1,6 @@
 name: Tiffany
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.385285887401551
 cta:
   domain: null
   bucket: null
@@ -23,3 +23,4 @@ purpose:
   - name: awareness
     item: null
     url: null
+typography_spectrum: 0.04744691448286176
