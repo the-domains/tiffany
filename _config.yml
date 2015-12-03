@@ -1,6 +1,7 @@
 name: Tiffany
 favicon: null
-layout_spectrum: 0.385285887401551
+layout_spectrum: 0.22795
+typography_spectrum: 0.85689
 cta:
   domain: null
   bucket: null
@@ -14,13 +15,17 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
+  brandColors:
+    - '#212117'
+    - '#6e5738'
+    - '#e1e2da'
+    - '#a88d62'
+    - '#4a8c4f'
   brandStrength: 0
   lightness: 0.5
-  saturation: 0.5
+  saturation: 0.75
   rhythmicContrast: 0.5
 purpose:
   - name: awareness
     item: null
     url: null
-typography_spectrum: 0.04744691448286176
